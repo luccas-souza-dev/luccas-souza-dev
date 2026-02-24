@@ -1,25 +1,78 @@
-# Olá, eu sou o Luccas Souza! 👋
+<h1 align="center">👋 Olá, eu sou o Luccas Souza</h1>
 
-![Banner](https://capsule-render.vercel.app/render?type=waving&color=0070f3&height=200&section=header&text=Luccas%20Souza&fontSize=70&animation=fadeIn)
-
-### 🚀 Desenvolvedor Front-end
-Sou um desenvolvedor apaixonado por transformar designs complexos em interfaces interativas e funcionais.
-
----
-
-### 🛠️ Tecnologias
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+<p align="center">
+Sou um desenvolvedor apaixonado por transformar designs em interfaces modernas, interativas e funcionais.  
+  <br>
+Estou estudando desenvolvimento Front-end há 4 meses, evoluindo constantemente minhas habilidades e expandindo meus conhecimentos no ecossistema web.
+</p>
 
 ---
 
-### 📊 Estatísticas
-*(As estatísticas aparecerão assim que você tiver projetos públicos)*
+## 💻 Sobre mim
 
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=luccas-souza-dev&show_icons=true&theme=radical)
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=luccas-souza-dev&layout=compact&theme=radical)
+- 🚀 Desenvolvedor Front-end em evolução
+- ⏳ Estudando desenvolvimento web há 4 meses
+- ✅ Base sólida em HTML e CSS
+- 📚 Atualmente estudando e focado em JavaScript
+- 🎯 Foco em evolução para React, Node.js, Vue e Python
+- ⚡ Buscando minha primeira oportunidade como desenvolvedor
 
 ---
 
-### 📫 Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-souza-web/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucassouza.dev@gmail.com)
+## 🚀 Tecnologias e Ferramentas
+
+### 🛠️ Stack Atual
+<p>
+<img src="https://skillicons.dev/icons?i=html,css" />
+</p>
+
+### 📚 Estudando no momento
+<p>
+<img src="https://skillicons.dev/icons?i=js" />
+</p>
+
+### 🎯 Próximos passos / Foco
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,vue,python" />
+</p>
+
+---
+
+## 📊 Minhas Estatísticas
+
+<p align="center">
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Adan-Lucaas&show_icons=true&theme=tokyonight&count_private=true"/>
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Adan-Lucaas&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🔥 Sequência de Contribuições
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Adan-Lucaas&theme=tokyonight" />
+</p>
+
+---
+
+## 🌎 Onde me encontrar
+
+<p>
+<a href="https://www.linkedin.com/in/lucas-souza-web/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:lucassouza.dev@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://wa.me/5511965077486" target="_blank">
+<img src="https://img.shields.io/badge/WhatsApp-Contato-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## ⭐ Projetos em destaque
+
+Em breve estarei adicionando meus projetos aqui.
